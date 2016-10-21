@@ -6,3 +6,5 @@ Para ejecutar el programa ir desde la consola a el directorio Release y ejecutar
 ```IluminarFoto.exe cara2.bmp```
 
 Este proyecto fue una práctica guiada de la asignatura Dispositivos e Infraestructuras de Sistemas Multimedia, del tercer año de Ingeniería Multimedia.
+
+¡Compilar en x86!
