@@ -1,5 +1,5 @@
-# IluminarFotoBN
-Iluminador y fusionador de fotos en escala de grises. Las fotos tiene que estar en formato BMP de 8 bits (256 tonos de gris).
+# ImageManagementMMX
+Iluminador y fusionador de fotos en escala de grises. Las fotos tiene que estar en formato BMP de 8 bits (256 tonos de gris) y ser del mismo tamaño para funcionar correctamente.
 El programa usará dos algoritmos diferentes para iluminar la misma imagen, uno de alto nivel y otro de bajo nivel.
 También usará dos algoritmos de bajo nivel para fundir la imagen, uno con isntrucciones MMX y otro mezclando MMX con SSE.
 Una vez esté hecha la operación con los dos métodos, el programa mostrará una comparativa de los tiempos que ha tardado en realizarse 100 iteraciones de cada operación. 
