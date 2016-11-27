@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{3EEFD786-42CB-4E97-B9C6-6AEB0A9676F6}</ProjectGuid>
+    <ProjectGuid>{EFB9117F-8E6D-4F8E-9819-2613E84D0547}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>IluminarFoto</RootNamespace>
+    <RootNamespace>imageManagement</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,11 +142,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="imagenBMP.h" />
+    <ClCompile Include="imageManagement.c" />
+    <ClCompile Include="imagenBMP.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="IluminarFoto.c" />
-    <ClCompile Include="imagenBMP.c" />
+    <ClInclude Include="imagenBMP.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
