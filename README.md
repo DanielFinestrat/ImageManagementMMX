@@ -13,3 +13,5 @@ Siendo la primera sintaxis para iluminar la foto cara.bmp y la segunda para fund
 Este proyecto fue una práctica de la asignatura Dispositivos e Infraestructuras de Sistemas Multimedia, del tercer año de Ingeniería Multimedia.
 
 ¡Compilar en x86!
+
+[Daniel Finestrat Martínez, 2016.](http://danielfinestrat.com)
