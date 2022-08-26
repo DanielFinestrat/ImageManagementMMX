@@ -14,4 +14,4 @@ Este proyecto fue una práctica de la asignatura Dispositivos e Infraestructuras
 
 ¡Compilar en x86!
 
-[Daniel Finestrat Martínez, 2016.](http://danielfinestrat.com)
+2016.
